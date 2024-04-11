@@ -19,6 +19,7 @@ When the 128th nft is minted:
   - a new prize pool begins
 
 
+The more nfts an owner owns, the higher the owner's chance of winning the prize pool in a given round
 
 
 
